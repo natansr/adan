@@ -1,0 +1,361 @@
+0<>minhoca plus, uma rede local para fins didaticos	   
+1<>o problema da qualidade de servico na perspectiva de sistemas de educacao a distancia	   
+2<>uma arquitetura para um ambiente concebido com base nas dimensoes criticas da educacao tecnologica a distancia	   
+3<>analise das dimensoes criticas da educacao a distancia como base para especificacao de um sistemas de gestao	   
+4<>minhonix- a distributed system for teaching	   
+5<>uma plataforma de computacao para administracao de ibcns	   
+6<>migrando uma solucao de interoperabilidade entre sistemas tmns baseada na metodologia aide para o ambiente osimis	   
+7<>semeai: sistema multiagente de ensino e aprendizagem na internet	   
+8<>modelos de trafego para a multiplexacao estatistica do trafego de dados em redes atm	   
+9<>especificacao formal do tratamento de excecoes na linguagem ddl	   
+10<>jpearl - uma linguagem para descricao de reestruturacoes em programas java	   
+11<>metamorfose de modelos poliedrais utilizando campos vetoriais em tetraedracoes	   
+12<>homeomorphisms and metamorphosis of polyhedral models using fields of directions defined on triangulations	   
+13<>visualizacao de vortices em dinamica de fluidos computacional	   
+14<>a boundary extraction approach based on multi-resolution methods and the t-snakes framework	   
+15<>improving the original dual-t-snakes model	   
+16<>a semi-automatic surface reconstruction framework based on t-surfaces and isosurface extraction methods	   
+17<>non-uniform mesh simplification using adaptative merge procedures	   
+18<>loop snakes: snakes with enhanced topology control	   
+19<>fast polygonization of variational implicit surfaces	   
+20<>tentando manter a diferenciabilidade em um morphing de curvas	   
+21<>a framework for attention and object categorization using a stereo head robot	   
+22<>enhancing the volumetric approach to stereo matching	   
+23<>a control architecture for multi-modal sensory integration	   
+24<>pipeline stereo matching in binary images	   
+25<>compressao de imagens usando transformada wavelet e curva peano-hilbert	   
+26<>a technique for compensating light source direction in face recognition applications	   
+27<>an image processing and belief network approach to face detection	   
+28<>a collision detection and response scheme for simplified physically based animation	   
+29<>a control theory approach for real-time animation of artificial agents	   
+30<>2-opt population training for minimization of open stack problem	   
+31<>a constructive evolutionary approach to linear gate assignment problems	   
+32<>an adaptive hierarchical fair competition genetic algorithm for large-scale numerical optimization	   
+33<>pattern sequencing problems by clustering search	   
+34<>detecting promising areas by evolutionary clustering search	   
+35<>sistema de suporte a auditoria de folhas de pagamento baseado em redes neurais	   
+36<>modelagem ontologica no apoio  modelagem conceitual	   
+37<>determinacao semi-automatica de fatores criticos de sucesso para a area academica	   
+38<>metaj: an extensible environment for metaprogramming in java	   
+39<>interactive applications using vrml for the aid to the teaching of graphic computation	   
+40<>novelty detection in time series by neural networks forecasting with robust confidence intervals	   
+41<>modular test code for microcontroller units with rom	   
+42<>escalonamento tolerante a sabotagem em grades computacionais entre-pares 	   
+43<>odysseyshare: um ambiente para o desenvolvimento cooperativo de componentes	   
+44<>traffic engineering in mpls networks: ars - an adaptive routing scheme based on control charts	   
+45<>using genetic algorithms to lsp setup in mpls networks	   
+46<>uma extensao do framework componentforge para desenvolvimento distribuido de software	   
+47<>mineracao da base de dados de um processo seletivo universitario	   
+48<>querying geographical data warehouses with geomdql	   
+49<>phosphorus implantation on near stoichiometric a-sic:h films	   
+50<>formation of 3c-sic films on silicon by thermal annealing process	   
+51<>synthesis tools and design environment for dynamically reconfigurable fpgas	   
+52<>implementacao de novos agentes para gerencia em redes de computadores	   
+53<>uma proposta para gerencia de e-mail	   
+54<>multiscale segmentation and enhancement in mammograms	   
+55<>segmentation of clinical structures from images of the human pelvic area	   
+56<>debye - uma ferramenta para extracao de dados semi-estruturados	   
+57<>uma interface grafica para consulta a fontes de dados xml	   
+58<>querying semistructured data by example: the qsbye interface	   
+59<>an environment for building and maintaining web views	   
+60<>the web as a data source for spatial databases	   
+61<>um retrato da web brasileira	   
+62<>deteccao de sitios replicados utilizando conteudo e estrutura	   
+63<>uma abordagem para armazenamento de dados semi-estruturados em bancos de dados relacionais	   
+64<>extracting and searching useful information available on web faqs	   
+65<>consultando banco de dados disponiveis na web usando palavras-chave	   
+66<>verificacao automatica da qualidade de dados extraidos da web	   
+67<>um relato sobre a utilizacao de agentes tecnologicos para o processo eleitoral na regiao amazonica	   
+68<>extracao de dados e metadados em textos semi-estruturados usando hmms	   
+69<>desenvolvimento de um sistema tutor inteligente baseado em agentes no contexto de uma aula virtual adaptada	   
+70<>uma arquitetura para desenvolvimento de ambientes interativos de aprendizagem baseado em agentes, componentes e framework	   
+71<>amam: ambiente de aprendizagem multiparadigmatico	   
+72<>afm: um assistente-tutor baseado em agentes para uma ferramenta de modelagem orientada a objetos	   
+73<>ambiente de suporte ao ensino de processamento de imagens usando a linguagem python	   
+74<>automatic method for assessment of telangiectasia degreeing by mathematical morphology	   
+75<>classification of microstructures by morphological analysis and estimation of the hydration degree of cement paste in concrete	   
+76<>detection of lines using hierarchical region based representation	   
+77<>modelo de mobilidade para representacao de cenarios de ambientes fechados	   
+78<>karytu: um software para o letramento da crianca surda sob a otica bilingue	   
+79<>mechanical properties of silicon oxide films deposited by pecvd-teos for application in mems structure and sensors	   
+80<>analysis of electrospinning of nanofibers as a function of polyacrylonitrile (pan) concentration	   
+81<>on determining a signature for skeletal maturity	   
+82<>semi-automatic identification of optic disk by image processing for quantitative funduscopy	   
+83<>wavelet-based compared to function-based on-line signature verification	   
+84<>planning brazilian urban traffic with a geographic application software	   
+85<>interpretacao de oracoes simples atraves do falibras (tradutor portugues-libras) para auxiliar na aprendizagem de criancas surdas	   
+86<>tarca - an integrated system for diagnosis and treatment of cardiac arrhythmias	   
+87<>uma analise da representatividade da matriz_u para o mapa auto-organizavel de kohonen	   
+88<>um modelo de avaliacao de especificacoes semi-formais de requisitos de software baseado na teoria do	   
+89<>verificacao formal da etapa do particionamento em co-design usando o sistema de reescrita bobj	   
+90<>uma tecnica de solucao transiente para modelos de filas fluido	   
+91<>calculo eficiente da distribuicao do tamanho de filas baseado em modelos de fluido	   
+92<>a realistic computer simulation of primary somatosensory cortex replicating static properties of topographic organization	   
+93<>a hierarchical neural model in short-term load forecasting	   
+94<>ane - arvore n-aria de espalhamento naturalmente balanceada	   
+95<>integracao ihc e es: processo de planejamento da reengenharia de software guiado pela avaliacao de usabilidade - ppr-u	   
+96<>ferramentas para apoio a construcao de sistemas de ajuda online	   
+97<>geracao de sistemas de transformacao de programas	   
+98<>hwsproxygen: um gerador de proxies de web services para a linguagem haskell	   
+99<>software para controle de temperatura em estufas	   
+100<>performance analysis for data service in third generation mobile telecommunication networks	   
+101<>performance analysis for data service in mobile telecommunication networks	   
+102<>desenvolvimento de um dispositivo gerenciador de protocolo para aplicacoes ieee 1451	   
+103<>a robust strategy for handling linear features in topologically consistent polyline simplification	   
+104<>preserving coincidence and incidence topologies	   
+105<>avaliacao de desempenho da composicao de web services usando redes de petri	   
+106<>servico de taxi baseado na localizacao em ambientes de comunicacao sem fio	   
+107<>impactos e desafios na implementacao de uma infra-estrutura de software livre nas organizacoes: estudo de caso de uma empresa do setor siderurgico	   
+108<>meta-gerencia de agentes procuradores usando snmp 	   
+109<>uma aplicacao de simulated annealing para o problema de alocacao de salas	   
+110<>aspectos de deteccao de intrusos em redes de sensores sem fio	   
+111<>deteccao de intrusos decentralizada em redes de sensores sem fio	   
+112<>a case study applying process and project alignment methodology	   
+113<>evaluation of methods for sentence and lexical alignment of brazilian portuguese and english parallel texts	   
+114<>a component-based digital library service for finding missing documents	   
+115<>an environment to aid the synthesis of threephase analgue waveform using ahdl	   
+116<>sistema de manipulacao de imagens via correio eletronico
+117<>distributed concurrent objects: a programming language for distributed computations with mobile reso	   
+118<>interactive editing of multiresolution meshes	   
+119<>sisdi-osi:sistema didatico para o modelo osi	
+120<>mining temporal constraints in databases using genetic algorithms
+121<>um modelo de simulacao de processos de software baseado em agentes cooperativos	   
+122<>using the temporal versions model in a software configuration management environment	   
+123<>avaliacao de abordagens de coleta e processamento de dados em redes de sensores sem fio 	   
+124<>um elemento autonomico para redes de sensores sem fio	   
+125<>translating a configuration language to the pi-calculus	   
+126<>an architecture for motion capture based animation	   
+127<>motion cyclification by time x frequency warping	   
+128<>a control theory approach for real-time animation of artificial agents	   
+129<>petriplan: a new algorithm for plan generation (preliminary report)	   
+130<>um modelo para cooperacao entre sistemas baseados em conhecimento baseado em capacidades	   
+131<>rule schemata for game artificial intelligence	   
+132<>classificacao nao supervisionada de dados de tipo intervalo baseada em distancias nao quadraticas	   
+133<>a clustering method for symbolic interval-type data using adaptive chebyshev distances	   
+134<>o uso de extreme programming em uma organizacao cmm nivel 2
+135<>making web client caching cooperate at lan level
+136<>bdterm: um sistema de gerenciamento de bases de dados terminologicas   
+137<>ferramentas para suporte do mapeamento da modelagem i* para a uml: extended good  xgood e goose	   
+138<>paginas amarelas na web: apresentacao de resultados de acordo com a localizacao geografica	   
+139<>analise comparativa de metadados em tv digital 
+140<>mag, um middleware de grade baseado em agentes: estado atual e perspectivas futuras	   	   
+141<>um ambiente para especificacao e verificacao automatica de aplicacoes baseadas em agentes moveis	  
+142<>effect of stencil alignment on the solder beading in smt process	   
+143<>experiencias com comunicacao de grupo nas especificacoes fault tolerant corba	   
+144<>handwritten recognition with multiple classifiers for restricted lexicon	   
+145<>construindo um ambiente educacional na web	   
+146<>modelo de ensino adaptativo na internet baseado em estilos cognitivos de aprendizagem	   
+147<>ferramentas de suporte a monitoracao do aluno em um ambiente inteligente de ensino na web	   
+148<>metodologia de construcao do material instrucional em um ambiente de ensino inteligente na web	   
+149<>um estudo empirico dos comportamentos de navegacao por estilo cognitivo de aprendizagem em um ambiente de treinamento na web	   
+150<>tecnicas de adaptacao do material instrucional no ambiente adaptweb	   
+151<>obtencao de metadados de objetos de aprendizagem no adaptweb(r)	   
+152<>sidi - sistema distribuido para o intercambio de dados de saude	   
+153<>agente para auxilio a avaliacao de aprendizagem ambientes de ensino na web	   
+154<>uso de web-services para compartilhamento de dados contidos em modelos de alunos	   
+155<>comportamento ativo em web services	   
+156<>integration of distributed learner information through the web service =	   
+157<>uma proposta para editoracao, indexacao e busca de documentos cientificos em um processo de avaliacao aberta	   
+158<>treinamento de redes neurais utilizando variantes do filtro de kalman (ekf e ukf) para predicao de series heterocedasticas	   
+159<>um provedor de dados para bibliotecas digitais compativel com o padrao oai	   
+160<>revista de informatica teorica e aplicada - volume 1	   
+161<>revista de informatica teorica e aplicada - volume 2	   
+162<>revista de informatica teorica e aplicada - volume 3	   
+163<>revista de informatica teorica e aplicada - volume 4	   
+164<>revista de informatica teorica e aplicada - volume 5	   
+165<>revista de informatica teorica e aplicada - volume 6	   
+166<>revista de informatica teorica e aplicada - volume 7	   
+167<>revista de informatica teorica e aplicada - volume 8	   
+168<>revista de informatica teorica e aplicada - volume 9	   
+169<>revista de informatica teorica e aplicada - volume 10	   
+170<>mineracao de uso em sistema de informacao	   
+171<>arquitetura de adaptacao em sistemas hipermidia adaptativos	   
+172<>implantacao de um processo de gerencia da configuracao de software baseado na kpa software configuration management do cmm nivel 2	   
+173<>robust approximation of offsets and bisectors of plane curves	   
+174<>robust adaptive approximation of implicit curves	   
+175<>planning brazilian urban traffic with a geographic application software	   
+176<>tecnicas, modelos e ferramentas para suporte a construcao de interfaces em sistemas de aplicacoes geograficas	   
+177<>implementation of probabilistic automata in weightless neural networks	   
+178<>neural control of a non linear process with gain scheduling	   
+179<>i ifip academy on the state of software theory and practice - phd colloquium	   
+180<>remocao de ambiguidades na identificacao de autoria de objetos bibliograficos	   
+181<>a backward mode for slope evaluation and remark on backward methods for interval variables	   
+182<>uso de algoritmos geneticos na selecao de atributos para classificacao de regioes	   
+183<>analysis of access selection algorithms for multi-access networks with elastic traffic	   
+184<>um ambiente na www de construcao de tabela de horario de professores aplicado as escolas de ensino medio estadual	   
+185<>um estudo teorico e experimental em algoritmos classicos de busca em texto	   
+186<>automacao de processos por meio de workflow: o caso da procempa	   
+187<>uma arquitetura para analise de carga de sinalizacao em redes de comunicacao movel celular	   
+188<>um servico de repositorio compartilhado e distribuido para suporte ao desenvolvimento baseado em componentes	   
+189<>uma extensao do framework componentforge para desenvolvimento distribuido de software	   
+190<>a programmable analog gaussian function synthesizer	   
+191<>protocolo de comunicacao em um sistema distribuido baseado num barramento paralelo centralizado	   6401<>0_3<>donald l hung:antonio arsgao:eduardo marques:karl hillesland<>iv simposio brasileiro de redes neurais<>jorge l silva<>ub1 - a recurrent neural network based parallel machine for solving simultaneous linear equations	   
+192<>previsibilidade do comportamento do canal em redes ieee 802 11	   
+193<>designing and development of an authoring environment for building and maintaining a society of artificial tutoring agents	   
+194<>agent based architecture for a cooperative learning environment	   
+195<>uma maquina de estados finitos para avaliacao de desempenho em um grupo de discussao on-line	   
+196<>amonmef - um agente de interface para avaliacao de aprendizagem em ensino a distancia	   
+197<>desenvolvimento de material instrucional de qualidade para ead segundo principios cognitivos	   
+198<>o processo de ensino e aprendizagem pautado por principios cognitivos	   
+199<>integracao ihc e es: processo de planejamento da reengenharia de software guiado pela avaliacao de usabilidade - ppr-u	   
+200<>um algoritmo geometrico para geracao de funcoes discriminantes	   
+201<>multiple correspondences in stereo vision under a genetic algorithm approach	   
+202<>the correspondence problem under an uncertainty reasoning approach	   
+203<>towards integrating hierarchical censored production rule(hcpr) based and neural networks	   
+204<>dempster-shafer theory as an inference method for corresponding geometric distorted images	   
+205<>integration of hierarchical censored production rule (hcpr)-based system and neural networks	   
+206<>um sistema de resolucao distribuida de problemas para apoiar o planejamento educacional	   
+207<>image based autonomous navigation with softcomputing decision making techniques	   
+208<>radial basis function neural network in the inversion of temperature vertical profiles from satellite radiance data	   
+209<>uma investigacao de modelos de estimativas de esforco em gerenciamento de projeto de software	   
+210<>gmla: a xml schema for integration and exchange of multidimensional-geographical data	   
+211<>providing multidimensional and geographical integration based on a gdw and metamodels	   
+212<>towards a web service for geographic and multidimensional processing	   
+213<>propondo uma linguagem de consulta geografica multidimensional	   
+214<>querying geographical data warehouses with geomdql	   
+215<>um metamodelo para a especificacao de data warehouses geograficos	   
+216<>estudo de um metodo para analise transiente de modelos markovianos de sistemas de comunicacao	   
+217<>representing belief revision through default theories	   
+218<>integrating morphological, syntactical and sementical aspects through multi-agent cooperation	   
+219<>corresponding geometric distorted images using an uncertainty inference method	   
+220<>progcon: um sistema para prognostico de congestionamento de trafego de redes	   
+221<>analise estocastica de descarte de pacotes em redes tcp	   
+222<>uma avaliacao empirica de politicas de invocacao para servicos web replicados	   
+223<>reading pddl, writing an object-oriented model	   
+224<>using common sense to recognize cultural differences 	   
+225<>issues in parallelizing multigrid-based substrate model extraction and analysis	   
+226<>managing heterogeneous networks: integrador based approach	   
+227<>uma estrategia para rerroteamento pro-ativo em redes opticas utilizando uma infra-estrutura de gerencia p2p 	   
+228<>desafios para provisao de integridade de processamento em grades computacionais	   
+229<>identifying anomalous patterns of network-wide traffic using flow clustering 	   
+230<>sigma: uma entidade para localizacao e autenticacao de dispositivos moveis entre areas de micromobilidade	   
+231<>analise estocastica de descarte de pacotes em redes tcp	   
+232<>integracao de um agente atm a um prototipo destinado ao estudo de interoperabilidade entre sistemas tmn	   
+233<>uma abordagem para a implantacao de nos programaveis em redes de comunicacao	   
+234<>neurocomputacao na estimativa do parametro de hurst	   
+235<>xxiii simposio brasileiro de redes de computadores	   
+236<>migrando uma solucao de interoperabilidade entre sistemas tmns baseada na metodologia aide para o ambiente osimis	   
+237<>desenvolvendo um ambiente distribuido de auxilio a avaliacao conceitual em sistemas tutores	   
+238<>mining temporal constraints in databases using genetic algorithms	   
+239<>informacao de links no modelo vetorial usando uma estrutura funcional	   
+240<>dependence among terms in vector space model	   
+241<>a multi-user key and data exchange protocol to manage a secure database	   
+242<>a raster approximation for processing of polyline joins	   
+243<>enforcement of business rules in relational databases using constraints	   
+244<>approximate spatial query processing using raster signatures	   
+245<>processamento eficiente de juncoes espacotemporais	   
+246<>approximate query processing in spatial databases using raster signatures	   
+247<>athenas: um sistema gerenciador de regras de negocio	   
+248<>falaocl: uma ferramenta para parafrasear ocl	   
+249<>processamento distribuido da juncao espacial	   
+250<>spatial query broker in a grid environment	   
+251<>secondo-grid: an infrastructure to study spatial databases in computational grids	   
+252<>an improved approach in data warehousing etlm process for detection of changes in source data	   
+253<>um dispositivo automatico para obtencao da forma 3d de objetos	   
+254<>pattern recognition of gases of petroleum based on rbf model	   
+255<>uma analise dos mecanismos de seguranca de redes locais sem fio e uma proposta de melhoria	   
+256<>improving performance of long-distance geographically distributed dedicated clusters	   
+257<>sqa - garantia da qualidade em uma fabrica de software	   
+258<>alocacao otima de utrs e medidores para a supervisao em tempo real de sistemas de distribuicao	   
+259<>uma abordagem para viabilizar o processo de data warehouse de dados biologicos	   
+260<>utilizacao da tecnica estelle para gerar sequencias de teste para protocolos de comunicacao	   
+261<>um meta-modelo para especificacao de arquiteturas de software em camadas	   
+262<>enriquecendo o codigo com cenarios	   
+263<>integracao de caracteristicas transversais durante a modelagem de requisitos	   
+264<>geracao de ontologias subsidiada pela engenharia de requisitos	   
+265<>uma linguagem de modelagem de requisitos orientada a aspectos	   
+266<>requisitos e arquitetura de software orientada a aspectos: uma integracao sinergica 	   
+267<>marisa - uma ferramenta para mapeamento bidirecional de modelos orientados a aspectos: requisitos e arquitetura de software	   
+268<>an efficient filling algorithm for non-simple closed curves using the point containment paradigm	   
+269<>stroking discrete polynomial bezier curves via point containment paradigm	   
+270<>estudo sobre detecao de bordas em imagens de profundidade	   
+271<>robust multiview range image registration	   
+272<>uma ferramenta de mineracao de imagens para suporte ao calculo de idade gestacional de recem-nascidos	   
+273<>mineracao de imagens	   
+274<>gerenciamento integrado de modens via snmp: um estudo de caso	   
+275<>isamadapt - um ambiente de desenvolvimento de aplicacoes no novo paradigma definido pela computacao pervasiva	   
+276<>disseminando informacoes na arquitetura isam	   
+277<>using neural networks with uncertainty information to core point and fingerprint classification	   
+278<>expert coop++: ambiente para desenvolvimento de sistemas multiagente	   
+279<>aprendizagem participativa em agrupamento nebuloso de dados	   
+280<>verificacao formal da etapa do particionamento em co-design usando o sistema de reescrita bobj	   
+281<>monitoramento do pe diabetico com suporte computacional	   
+282<>inspecoes de requisitos de software utilizando pbr e apoio ferramental	   
+283<>modelagem de bibliotecas digitais usando a abordagem 5s: um estudo de caso	   
+284<>um servico de auto-arquivamento de publicacoes cientificas compativel com o padrao oai	   
+285<>solving satisfiability in combinational circuits with bactrack search and recursive learning	   
+286<>multiuser system: kennetic world	   
+287<>eliciting requirements for identifying workflow categories	   
+288<>mapeando estruturas organizacionais em categorias de workflow	   
+289<>cartographical data treatment analysis for real time three-dimensional terrain visualization	   
+290<>computadores e producao de servicos publicos: resultados de uma investigacao na prefeitura de belo horizonte	   
+291<>controlando a evolucao de sistemas orientados por aspectos por meio de aspect-aware interfaces	   
+292<>um estudo sobre o emprego de quantificacao em sistemas orientados por aspectos: resultados preliminares	   
+293<>especificacao de um sistema de supervisao e gerencia de equipamentos de comunicacao de dados	   
+294<>visualization of geospatial data by component planes and u-matrix	   
+295<>semi-automatic geospatial data clustering by self-organizing maps	   
+296<>past-directed evaluation of dynamic integrity constraints in temporal databases	   
+297<>a system for aiding discovery: mechanisms for knowledge generation	   
+298<>hybrid training of morphological neural networks applied to function approximation	   
+299<>optimizing ranking calculation in web search engines: a case study	   
+300<>a geographic knowledge base for text processing	   
+301<>implantacao de melhoria no processo ?engenharia de requisitos? na empresa formula informatica	   
+302<>spatial measurement of residential segregation	   
+303<>skdql: a structured language to specify knowledge discovery processes and queries	   
+304<>a blind hybrid decision feedback equalizer	   
+305<>um estudo comparativo entre o bagging de redes mlp e o treinamento multi-objetivo	   
+306<>par_qos: uma estrategia para provimento de computacao paralela em ambientes distribuidos de proposito geral	     
+307<>redes sem fio metropolitanas baseadas no padrao 802 16: um estudo de caso para belem-pa	   
+308<>um mecanismo para a selecao dinamica de canal em redes ieee 802 11 infra-estruturadas	   
+309<>performance analysis of message-oriented middleware using stochastic petri nets	   
+310<>monitoramento baseado em aspectos de contratos eletronicos	   
+311<>nano-mechanical properties of silk low-k dielectric material	   
+312<>improvements in focused ion beam micro-machining of interconnect materials	   
+313<>radiation-tolerant cmos aps arrays	   
+314<>comunicacao por pacotes na experiencia piloto de rdsi	   
+315<>comutador de pacotes do sistema compac	   
+316<>biased clustering methods for image classification	   
+317<>um algoritmo de substituicao de objetos em cache na internet baseado em semantica	   
+318<>formation and characterization of the ni(pt)si and nisi for mos devices applications	   
+319<>formation and stability of ni(pt)si/poly-si layered structure	   
+320<>lithology recognition by neural network ensembles	   
+321<>a semi-automatic methodology for localization of short mitochondrial genes in long sequences	   
+322<>dimensionando data marts: uma adequacao de uma metrica funcional	   
+323<>uma aplicacao de mineracao de dados na manutencao de redes de telefonia	   
+324<>extracao de dados e metadados em textos semi-estruturados usando hmms	   
+325<>deteccao de intrusos: uma abordagem usando redes neurais	   
+326<>um assistente para configuracao de bibliotecas digitais componentizadas	   
+327<>museum: uma aplicacao de m-learning com realidade virtual	   
+328<>desenvolvimento de um sig para reconfiguracao de redes de energia eletrica com interface integrada	   
+329<>on rdbms and workflow support for componentized digital libraries	   
+330<>a component-based digital library service for finding missing documents	   
+331<>materializacao do conceito de software publico: iniciativa cacic	   
+332<>energy-aware scheduling of real-time heterogeneous multiprocessor systems-on-a-chip	   
+333<>utilizacao de chaves em algoritmos de diff para xml	   
+334<>um prototipo de servidor de modem sobre uma rede tcp/ip	   
+335<>reconstructing a 3d model from range images using radial flow model	   
+336<>metodologia de desenvolvimento e implementacoes de agentes de supervisao de elementos de rede para plataforma distribuida sis	   
+337<>suporte ao desenvolvimento e uso de componentes flexiveis	   
+338<>suporte ao uso de frameworks orientados a objetos com base no historico do desenvolvimento de aplicacoes	   
+339<>dimensao socio-afetiva da interacao a distancia	   
+340<>image effects using contractive mappings	   
+341<>reconstrucao de objetos 3d usando modelos deformaveis	   
+342<>a semi-automatic surface reconstruction framework based on t-surfaces and isosurface extraction methods	   
+343<>orion: a construcao coletiva de uma comunidade online de conhecimento	   
+344<>extensao do tempo de vida de redes ad hoc	   
+345<>revisao sintatica e semantica da logica defaut	   
+346<>asnode-scp: a new version of the ant system for the set covering problem	   
+347<>informed embedding for multibit watermarking	   
+348<>ane - arvore n-aria de espalhamento naturalmente balanceada	   
+349<>viral: um framework para o desenvolvimento de aplicacoes de realidade virtual	   
+350<>a vr tool for the visualization of cad models	   
+351<>uma aplicacao utilizando xml para a area de adocao: pesquisa de criancas disponiveis para adocao, pesquisa e pre-inscricao de pretendentes	   
+352<>uso da tecnologia movel no auxilio a reeducacao alimentar	   
+353<>wxproc: um simulador de politicas de escalonamento multiplataforma	   
+354<>adaptacao do algoritmo genetico no tratamento do problema de roteamento de veiculos com janela de tempo	   
+355<>a hybrid algorithm for the vehicle routing problem with time window	   
+356<>software para o ensino do protocolo de janelas deslizantes	   
+357<>inteligencia artificial aplicada a ambientes de engenharia de software: uma visao geral	   
+358<>constraint-based tree pattern mining	   
+359<>document reconstruction based on feature matching	   
+360<>low-frequency noise in deep-submicron mosfets	   

@@ -1,0 +1,46 @@
+[
+    {
+        "label": 3,
+        "author": "Ajay Gupta",
+        "title": "Document Summarization using Wikipedia",
+        "abstract": "",
+        "coauthors": [
+            "krishnan ramanathan",
+            "yogesh sankarasubramaniam",
+            "nidhi mathur"
+        ]
+    },
+    {
+        "label": 2,
+        "author": "Ajay Gupta",
+        "title": "Policy Driven Data Administration",
+        "abstract": "",
+        "coauthors": [
+            "vishal s. batra",
+            "jaijit bhattacharya",
+            "harish chauhan",
+            "mukesh k. mohania",
+            "upendra sharma"
+        ]
+    },
+    {
+        "label": 3,
+        "author": "Ajay Gupta",
+        "title": "Time Representation in Prolog Circuit Modelling",
+        "abstract": "",
+        "coauthors": [
+            "yossi lichtenstein",
+            "bob welham"
+        ]
+    },
+    {
+        "label": 3,
+        "author": "Ajay Gupta",
+        "title": "Clustering short texts using wikipedia",
+        "abstract": "Subscribers to the popular news or blog feeds (RSS/Atom) often face the problem of information overload as these feed sources usually deliver large number of items periodically. One solution to this problem could be clustering similar items in the feed reader to make the information more manageable for a user. Clustering items at the feed reader end is a challenging",
+        "coauthors": [
+            "somnath banerjee",
+            "krishnan ramanathan"
+        ]
+    }
+]
