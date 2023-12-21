@@ -1,3 +1,6 @@
+![image](https://github.com/natansr/adan/assets/4833993/0052d05c-f533-4cfd-9c13-eb8782e6cb56)
+
+
 # Authomatic Disambiguation Author Name (ADAN)
 
 The Authomatic Disambiguation Author Name (ADAN) is an advanced system for disambiguating author names in digital bibliographic repositories. This project employs natural language processing (NLP) techniques, BERT embeddings, Graph Convolutional Networks (GCN), random walk, clustering, and features a user-friendly web interface to achieve high accuracy in resolving ambiguities in author names.
