@@ -42,7 +42,7 @@ In contrast to the techniques mentioned in Qiao's work, we have adopted the use 
 1. Clone this repository:
 
    ```bash
-    git clone https://github.com/....
+    git clone https://github.com/natansr/adan
 
 2. Install and unninstall the dependencies
 
