@@ -55,20 +55,4 @@ In contrast to the techniques mentioned in Qiao's work, we have adopted the use 
 
 ### Steps
 
-
-```bash
-# step 1: preprocess the data
-python data_processing.py
-
-# step 2: train the GRU based encoder to learn deep semantic representations
-python DRLgru.py 
-
-# step 3: construct a PHNet and generate random walks
-python walks.py
-
-# step 4: weighted heterogeneous network embedding
-python WHNE.py
-
-# step 5: generate clustering results
-python evaluator.py
-```
+Under development...
