@@ -56,18 +56,18 @@ In contrast to the techniques mentioned in Qiao's work, we have adopted the use 
 ### Steps
 
 ```bash
-# step 1: preprocess the data
+# 1 
 python pre_processing.py
 
-# step 2: train the GRU based encoder with BERT to learn deep semantic representations
+# 2 
 python bert.py 
 
-# step 3: construct a Network and generate random walks
+# 3
 python random_walk.py
 
-# step 4: apply weighted heterogeneous network embedding
+# 4
 python create_w_network.py
 
-# step 5: generate clustering results
+# 5
 python cluster_evaluator.py
 ```
