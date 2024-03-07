@@ -30,16 +30,24 @@ def generate_author_plots(author):
     fig, axs = plt.subplots(1, 2, figsize=(12, 5))
 
     # Plote o LLE do ground-truth na primeira subtrama
-    axs[0].scatter(lle_ground_truth_result[:, 0], lle_ground_truth_result[:, 1], c=ground_truth_labels, cmap='viridis', s=200)
+    scatter1 = axs[0].scatter(lle_ground_truth_result[:, 0], lle_ground_truth_result[:, 1], c=ground_truth_labels, cmap='viridis', s=200)
     axs[0].set_title('LLE do Ground-Truth')
     axs[0].set_xlabel('LLE Dimension 1')
     axs[0].set_ylabel('LLE Dimension 2')
 
+    # Adicione uma legenda ao gráfico do ground-truth
+    legend1 = axs[0].legend(*scatter1.legend_elements(), title="Clusters", loc="upper right")
+    axs[0].add_artist(legend1)
+
     # Plote o LLE das predições na segunda subtrama
-    axs[1].scatter(lle_prediction_result[:, 0], lle_prediction_result[:, 1], c=prediction_labels, cmap='viridis', s=200)
+    scatter2 = axs[1].scatter(lle_prediction_result[:, 0], lle_prediction_result[:, 1], c=prediction_labels, cmap='viridis', s=200)
     axs[1].set_title('LLE das Predições')
     axs[1].set_xlabel('LLE Dimension 1')
     axs[1].set_ylabel('LLE Dimension 2')
+
+    # Adicione uma legenda ao gráfico das predições
+    legend2 = axs[1].legend(*scatter2.legend_elements(), title="Clusters", loc="upper right")
+    axs[1].add_artist(legend2)
 
     # Ajuste o layout para evitar sobreposição
     plt.tight_layout()
@@ -49,7 +57,7 @@ def generate_author_plots(author):
 
     plt.ioff()
     # Exiba a figura
-    #plt.show(block=False)
+    plt.show(block=False)
 
 # Lê os nomes dos autores de um arquivo de texto, um nome por linha
 #with open('lista_autores.txt', 'r') as file:
@@ -62,7 +70,7 @@ def generate_author_plots(author):
 
 
 def main():
-    generate_author_plots("Koichi Furukawa")
+    generate_author_plots("Michael Wagner")
 
 if __name__ == "__main__":
     main()
