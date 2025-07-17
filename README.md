@@ -3,7 +3,7 @@
 ![image](https://github.com/natansr/adan/assets/4833993/0052d05c-f533-4cfd-9c13-eb8782e6cb56)
 
 
-# Authomatic Disambiguation Author Name (ADAN) - v.1.0
+# Automatic Disambiguation Author Name (ADAN) - v.1.0
 
 **ADAN** is a modern system for **Author Name Disambiguation (AND)** in digital bibliographic repositories. It draws inspiration from two solid foundations — **ComMAND** and **FCAND** — and aims to combine their strengths into a unified and extensible pipeline.
 
