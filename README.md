@@ -3,31 +3,30 @@
 ![image](https://github.com/natansr/adan/assets/4833993/0052d05c-f533-4cfd-9c13-eb8782e6cb56)
 
 
-
 # Authomatic Disambiguation Author Name (ADAN) - v.1.0
 
-**ADAN** is a modern system for **Author Name Disambiguation (AND)** in digital bibliographic repositories. This version derives from two robust frameworks — **ComMAND** and **FCAND** — and extends them with new features focused on **visualization**, **user configurability**, and **modularity**.
+**ADAN** is a modern system for **Author Name Disambiguation (AND)** in digital bibliographic repositories. It draws inspiration from two solid foundations — **ComMAND** and **FCAND** — and aims to combine their strengths into a unified and extensible pipeline.
 
 ---
 
 ## 🔍 About This Project
 
-This project builds upon two foundational frameworks for Author Name Disambiguation (AND): [ComMAND](#citation) and [FCAND](#citation).
+This project builds upon two foundational frameworks for Author Name Disambiguation (AND): ComMAND and FCAND.
 
 - **ComMAND** introduces a modular AND pipeline combining SciBERT-based embeddings, heterogeneous graph construction, Graph Convolutional Networks (GCN), and Graph-enhanced Hierarchical Agglomerative Clustering (GHAC), all accessible through a graphical interface.
 
-- **FCAND** provides a flexible system with user-configurable settings, including the choice of transformer-based embeddings (e.g., MiniLM), adjustable GCN depth, and clustering methods, designed to adapt to varying data characteristics.
+- **FCAND** provides a flexible system with user-configurable settings, including the choice of transformer-based embeddings, adjustable GCN depth, and clustering methods, designed to adapt to varying data characteristics.
 
-ADAN inherits and extends both systems by supporting customizable NLP embeddings, enabling future options for GCN configuration and clustering strategy selection, and integrating ongoing development of visualization tools for cluster exploration.
+ADAN inherits and extends both systems by supporting customizable NLP embeddings, enabling options for GCN configuration and clustering strategy selection, and integrating ongoing development of visualization tools for cluster exploration.
 
 ---
 
 ## 🆕 What's New in ADAN
 
-- 🧠 **Embeddings Selection:** Choose from NLP models like SciBERT, TF-IDF, or Word2Vec. ✅ **(Implemented)**
-- 🌐 **Clustering Algorithm Selection:** Support for future options (e.g., GHAC, DBSCAN). 🛠️ *(Under Development)*
-- 🧱 **GCN Architecture Configuration:** Set number of layers and parameters. 🛠️ *(Under Development)*
-- 📊 **Cluster Visualization:** Visualize document groups and embeddings. 🛠️ *(Under Development)*
+-  **Embeddings Selection:** Choose from NLP models like SciBERT, TF-IDF, or Word2Vec, MiniLM. ✅ **(Implemented)**
+-  **Clustering Algorithm Selection:** Clusters documents using. Support for future options (e.g., K-Means, DBSCAN). 🛠️ *(Under Development)*
+-  **GCN Architecture Configuration:** Set number of layers and parameters.
+-  **Cluster Visualization:** Visualize document groups and embeddings. 🛠️ *(Under Development)*
 
 ---
 
@@ -45,8 +44,6 @@ Clone the repository:
 git clone https://github.com/natansr/adan
 cd adan
 pip install -r requirements.txt
-pip uninstall community
-pip install python-louvain
 ```
 
 ---
@@ -75,7 +72,7 @@ pip install python-louvain
 ## Modules Overview
 
 - **Pre-processing:** Filters raw JSON files and structures data.
-- **Embedding Extraction:** Generates document vectors using SciBERT, TF-IDF, or Word2Vec.
+- **Embedding Extraction:** Generates document vectors using BERT,SciBERT, TF-IDF,Word2Vec, and others models.
 - **Graph Construction:** Builds a heterogeneous graph with authors, papers, venues, etc.
 - **GCN:** Learns contextual node representations from graph topology.
 - **Clustering:** Clusters documents using GHAC or other algorithms (future).
@@ -151,20 +148,12 @@ The system provides:
 > _Please cite the original ComMAND and FCAND frameworks when using ADAN:_
 
 ```
-[Placeholder for citation to “A Novel Framework with ComMAND: A Combined Method for Author Name Disambiguation”]
+[Rodrigues, N. S. and Ralha, C. G. A Novel Framework with ComMAND: A Combi-
+ned Method for Author Name Disambiguation. Information Processing & Manage-
+ment. ]
 
-[Placeholder for citation to “A Flexible and Configurable System for Author Name Disambiguation”]
+[N. D. S. Rodrigues and C. G. Ralha, "A Flexible and Configurable System to Author Name Disambiguation," in IEEE Access, doi: 10.1109/ACCESS.2025.3589957., ]
 ```
-
----
-
-## 🧠 Based On
-
-ADAN (this version) extends the following prior works:
-
-- **ComMAND** – A Combined Method for Author Name Disambiguation.
-- **FCAND** – A Flexible and Configurable System for Author Name Disambiguation.
-- Qiao, Ziyue et al. “Unsupervised Author Disambiguation using Heterogeneous Graph Convolutional Network Embedding.” *2019 IEEE International Conference on Big Data (Big Data)*, pp. 910–919.
 
 ---
 
