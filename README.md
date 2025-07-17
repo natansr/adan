@@ -48,26 +48,6 @@ pip install -r requirements.txt
 
 ---
 
-## Project Structure
-
-```
-├── data_process/
-│   ├── pre_processing.py
-│   └── pre_process_ghac.py
-├── datasets/                    # Input and processed data
-├── gcn/
-│   └── embedding_extraction_gcn.py
-├── ghac/
-│   └── ghac.py
-├── het_network/
-│   └── network_creation.py
-├── nlp/
-│   └── nlp.py
-├── gui.py                       # Main GUI script
-└── README.md
-```
-
----
 
 ## Modules Overview
 
@@ -86,7 +66,7 @@ pip install -r requirements.txt
 Run the GUI:
 
 ```bash
-python gui.py
+python adan.py
 ```
 
 The GUI supports:
