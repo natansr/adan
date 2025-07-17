@@ -178,7 +178,7 @@ class GHAC:
 
 class GHACApp(ttk.Window):
     def __init__(self):
-        super().__init__(themename="superhero")
+        super().__init__(themename="morph")
         self.title("GCN Embedding Validation")
         self.geometry("800x600")
 

@@ -127,13 +127,13 @@ def save_embeddings(embeddings, nodes, save_path):
 # GUI class using ttkbootstrap
 class GCNApp(ttk.Window):
     def __init__(self):
-        super().__init__(themename="superhero")
+        super().__init__(themename="morph")
         self.title("GCN Embedding Training")
         self.geometry("800x700")
 
         self.network_file_var = ttk.StringVar()
         self.embedding_file_var = ttk.StringVar()
-        self.num_layers_var = ttk.IntVar(value=3)
+        self.num_layers_var = ttk.IntVar(value=2)
         self.epochs_var = ttk.IntVar(value=1000)
 
         self.create_widgets()
@@ -146,14 +146,14 @@ class GCNApp(ttk.Window):
         ttk.Label(frame, text="Heterogeneous Graph File (.pkl):", font=("Arial", 12, "bold")).pack(anchor=W, pady=5)
         network_file_entry = ttk.Entry(frame, textvariable=self.network_file_var, width=50, bootstyle="primary")
         network_file_entry.pack(pady=5)
-        ttk.Button(frame, text="Browse", bootstyle="info",
+        ttk.Button(frame, text="Browse", bootstyle="info-outline",
                    command=lambda: self.network_file_var.set(filedialog.askopenfilename(filetypes=[("PKL Files", "*.pkl")], title="Select Graph File"))).pack(pady=5)
 
         # NLP Embedding file selection
         ttk.Label(frame, text="NLP Embeddings File (.pkl):", font=("Arial", 12, "bold")).pack(anchor=W, pady=5)
         embedding_file_entry = ttk.Entry(frame, textvariable=self.embedding_file_var, width=50, bootstyle="primary")
         embedding_file_entry.pack(pady=5)
-        ttk.Button(frame, text="Browse", bootstyle="info",
+        ttk.Button(frame, text="Browse", bootstyle="info-outline",
                    command=lambda: self.embedding_file_var.set(filedialog.askopenfilename(filetypes=[("PKL Files", "*.pkl")], title="Select Embeddings File"))).pack(pady=5)
 
         # Number of GCN layers

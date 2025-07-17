@@ -16,7 +16,7 @@ from data_process.pre_processing import run_pre_processing
 class MainApplication(ttk.Window):
     def __init__(self):
         super().__init__(themename="morph")
-        self.title("ADAN v.0.1")
+        self.title("ADAN v.1.0")
         self.geometry("600x500")
         
         self.selected_features = {

@@ -168,7 +168,7 @@ class EmbeddingExtractor:
 def main():
     root = ttk.Window(themename="morph")
     root.title("Embedding Extraction Progress")
-    root.geometry("600x1000")
+    root.geometry("600x400")
 
     ttk.Label(root, text="Select NLP model or fine-tuned directory:", font=("Arial", 12, "bold")).pack(anchor="w", pady=5)
     model_var = StringVar(value="allenai/scibert_scivocab_uncased")
@@ -199,7 +199,7 @@ def main():
     progress_bar = ttk.Progressbar(root, orient="horizontal", length=500, mode="determinate", bootstyle="success")
     progress_bar.pack(pady=10)
 
-    ttk.Button(root, text="Start Extraction", bootstyle="primary-outline", command=lambda: Thread(
+    ttk.Button(root, text="Start Extraction", bootstyle="success", command=lambda: Thread(
         target=EmbeddingExtractor(model_var.get(), data_dir_var.get(),
                                   [f for f, v in selected_features.items() if v.get()],
                                   progress_bar, ttk.Label(root), Text(root), ttk.Label(root)).extract_embeddings).start()).pack(pady=20)
