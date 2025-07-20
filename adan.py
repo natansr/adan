@@ -11,13 +11,17 @@ from threading import Thread
 
 from data_process.pre_process_ghac import split_json_by_author
 from data_process.pre_processing import run_pre_processing 
+import PIL
+from PIL import Image
+from PIL import ImageTk
+
 
 
 class MainApplication(ttk.Window):
     def __init__(self):
         super().__init__(themename="morph")
         self.title("ADAN v.1.0")
-        self.geometry("600x500")
+        self.geometry("650x600")
         
         self.selected_features = {
             "abstract": BooleanVar(value=True),
@@ -39,14 +43,35 @@ class MainApplication(ttk.Window):
             cb.pack(anchor='w')
 
 
+        # Carregar e redimensionar os ícones
+        self.icon_preprocess = PIL.ImageTk.PhotoImage(Image.open("icons/preprocess.png").resize((35, 35)))
+        self.icon_network = PIL.ImageTk.PhotoImage(Image.open("icons/network.png").resize((35, 35)))
+        self.icon_embedding = PIL.ImageTk.PhotoImage(Image.open("icons/nlp.png").resize((35, 35)))
+        self.icon_gcn = PIL.ImageTk.PhotoImage(Image.open("icons/gcn.png").resize((35, 35)))
+        self.icon_cluster_prep = PIL.ImageTk.PhotoImage(Image.open("icons/preprocess.png").resize((35, 35)))
+        self.icon_cluster = PIL.ImageTk.PhotoImage(Image.open("icons/cluster.png").resize((35, 35)))
+        self.icon_visual = PIL.ImageTk.PhotoImage(Image.open("icons/results.png").resize((35, 35)))
 
-        ttk.Button(self, width=30, text="Pre-processing", command=self.run_pre_processing, bootstyle="primary-outline").pack(pady=5)
-        ttk.Button(self, width=30, text="Heterogeneous Network Construction", command=self.run_network_creation, bootstyle="primary-outline").pack(pady=5)
-        ttk.Button(self, width=30, text="Extract Embeddings", command=self.run_embedding_extraction, bootstyle="primary-outline").pack(pady=5)
-        ttk.Button(self, width=30, text="GCN - Setup / Training", command=self.run_gcn_extraction, bootstyle="primary-outline").pack(pady=5)
-        ttk.Button(self, width=30, text="Clustering (Pre-processing)", command=self.run_dividir_json_por_autor, bootstyle="primary-outline").pack(pady=5)
-        ttk.Button(self, width=30, text="Clustering", command=self.run_clustering_validation, bootstyle="primary-outline").pack(pady=5)
 
+
+
+        # Botões com ícones e texto
+        ttk.Button(self, width=30, text="   Pre-processing", image=self.icon_preprocess, compound="left",
+           command=self.run_pre_processing, bootstyle="primary-outline").pack(pady=5)
+        ttk.Button(self, width=30, text="   Heterogeneous Network Construction", image=self.icon_network, compound="left",
+           command=self.run_network_creation, bootstyle="primary-outline").pack(pady=5)
+        ttk.Button(self, width=30, text="Extract Embeddings", image=self.icon_embedding, compound="left",
+           command=self.run_embedding_extraction, bootstyle="primary-outline").pack(pady=5)
+        ttk.Button(self, width=30, text="GCN - Setup / Training", image=self.icon_gcn, compound="left",
+                command=self.run_gcn_extraction, bootstyle="primary-outline").pack(pady=5)
+
+        ttk.Button(self, width=30, text="Clustering (Pre-processing)", image=self.icon_cluster_prep, compound="left",
+                command=self.run_dividir_json_por_autor, bootstyle="primary-outline").pack(pady=5)
+
+        ttk.Button(self, width=30, text="Clustering", image=self.icon_cluster, compound="left",
+                command=self.run_clustering_validation, bootstyle="primary-outline").pack(pady=5)
+        ttk.Button(self, width=30, text="Results", image=self.icon_visual, compound="left",
+           command=self.run_clustering_results, bootstyle="primary-outline").pack(pady=5)
         self.progress = ttk.Progressbar(self, orient="horizontal", length=400, mode="determinate", bootstyle="warning")
         self.progress.pack(pady=20)
 
@@ -167,6 +192,12 @@ class MainApplication(ttk.Window):
     def run_clustering_validation(self):
         try:
             subprocess.run(["python", "ghac/ghac.py"])
+        except Exception as e:
+            messagebox.showerror("Error", f"Clustering execution failed: {e}")
+    # Launch GHAC clustering validation script
+    def run_clustering_results(self):
+        try:
+            subprocess.run(["python", "ghac/cluster_visualize.py"])
         except Exception as e:
             messagebox.showerror("Error", f"Clustering execution failed: {e}")
 
