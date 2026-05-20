@@ -34,7 +34,7 @@ ADAN inherits and extends both systems by supporting customizable NLP embeddings
 
 ### Prerequisites
 
-- Python 3.10+ recommended
+- Python 3.12+ recommended
 
 ### Installation
 
