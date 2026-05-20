@@ -181,7 +181,8 @@ def main():
         "sentence-transformers/all-MiniLM-L6-v2",
         "tfidf",
         "word2vec",
-        "BAAI/bge-m3"
+        "BAAI/bge-m3",
+        "intfloat/multilingual-e5-small"
     ], width=50, bootstyle="primary").pack(pady=5)
 
     ttk.Button(root, text="Select Fine-Tuned Model Directory", bootstyle="primary-outline",
