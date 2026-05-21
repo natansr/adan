@@ -182,7 +182,9 @@ def main():
         "tfidf",
         "word2vec",
         "BAAI/bge-m3",
-        "intfloat/multilingual-e5-small"
+        "intfloat/multilingual-e5-small",
+        "ibm-granite/granite-embedding-97m-multilingual-r2",
+        "ibm-granite/granite-embedding-311m-multilingual-r2"
     ], width=50, bootstyle="primary").pack(pady=5)
 
     ttk.Button(root, text="Select Fine-Tuned Model Directory", bootstyle="primary-outline",
